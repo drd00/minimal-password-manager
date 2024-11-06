@@ -1,6 +1,6 @@
 # Minimal password manager
 ## Description
-A minimal CLI password manager written in C. I seriously suggest that you do not ever use this seriously --- there are already tried and tested tools for this task, and I am not a professional in cybersecurity.
+A minimal CLI password manager written in C. I suggest that you do not ever use this seriously --- there are already tried and tested tools for this task, and I am not a professional in cybersecurity.
 Nonetheless, this has been a fun project to endeavour on, and I welcome any feedback.
 
 ## Build instructions
